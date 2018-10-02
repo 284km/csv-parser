@@ -4,6 +4,14 @@ Welcome to your new gem! In this directory, you'll find the files you need to be
 
 TODO: Delete this and the text above, and describe your gem
 
+## Notes
+
+- http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-talk/439507
+- http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-talk/439547
+
+- https://github.com/csv11/docs/blob/master/why-the-csv-stdlib-is-broken.md
+- https://github.com/csv11/docs/blob/master/csv-formats.md
+
 ## Installation
 
 Add this line to your application's Gemfile:
